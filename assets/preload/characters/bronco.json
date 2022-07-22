@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lol",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lol",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bronco",
+	"position": [
+		-260,
+		310
+	],
+	"healthicon": "bronco",
+	"flip_x": false,
+	"healthbar_colors": [
+		228,
+		195,
+		31
+	],
+	"camera_position": [
+		0,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

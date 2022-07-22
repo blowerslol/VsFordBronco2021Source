@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bronco.png">
+<SubTexture name="lol0000" x="0" y="0" width="990" height="542" frameX="-4" frameY="-19" frameWidth="1000" frameHeight="561" />
+</TextureAtlas>

@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Revvin Up",
+			"bronco",
+			[
+				229,
+				194,
+				35
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "ford",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Ford Bronco 2021",
+	"weekName": "Ford Bronco 2021",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
